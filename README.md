@@ -16,21 +16,24 @@ git add .
 git commit -am "this is a commit message"
 ```
 
-["Duck Duck Go"](https://duckduckgo.com/)
+[Duck Duck Go](https://duck.com)
 
-- This is my first item
-- This is my second item
-- This is my third item in an unordered list
+- This is a list item one
+    - This is a nested list item
+        - This is a nested list item
+- This is a list item two
+- This is a list item three
 
-1. This is one
-    - This is a subitem
-        - This is another subitem
-            - This is a subsubitem
-2. This is two  
-3. This is three
+1. This is a numbered list item one
+    - This is a nested list item
+        - This is a nested list item
+2. This is a numbered list item two
+3. This is a numbered list item three
 
-- [x] This is a checkbox
-- [ ] This is another checkbox
+- [x] This is a todo list
+- [ ] This is a todo list that is not complete
+- [ ] This is another todo list that is not complete
 
-# This is the Black Cat Section
+# This is the black cat section
+
 !["black cat"](https://images.saymedia-content.com/.image/t_share/MTc0Mzk3OTM1MTgwNTg4Njc4/what-are-the-best-names-for-black-cats.jpg)
